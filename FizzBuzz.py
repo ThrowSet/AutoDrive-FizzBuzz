@@ -1,5 +1,6 @@
 # Author: Seth Stemen
 # FizzBuzz for Buckeye AutoDrive entrance exam
+# Written in Python 3.12 using PyCharm Professional
 
 def main():
     for i in range(1, 251):
